@@ -24,6 +24,13 @@ bld/
 [Oo]bj/
 [Ll]og/
 
+*
+!*/
+!/App/Talent.App.WebApp/wwwroot/js/react/ReactScripts/Employer/CreateJob/CreateJob.jsx
+!/App/Talent.App.WebApp/wwwroot/js/react/ReactScripts/Employer/ManageJob/*
+!/App/Talent.App.WebApp/wwwroot/js/react/ReactScripts/Profile/EmployerProfile.jsx
+!/App/Talent.App.WebApp/wwwroot/js/react/ReactScripts/Profile/ContactDetail.jsx
+
 # Visual Studio 2015/2017 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
